@@ -1,2 +1,1 @@
-# Bert-Sentiment-Analysis
-Bert Sentiment Analysis
+# BERT Sentiment Analysis
